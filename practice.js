@@ -270,6 +270,9 @@ let mappedMonsters = filteredMonsters.map((monster) => {
   }
 })
 
+
+// I won't take credit for the solution below. my sweaty boy code friend helped me and he was stuck on finding an answer. it works but this is not my code
+
 // totalCP BONUS
 // let reducedMonsters = mappedMonsters.reduce( ( dict, currentMonster, i, arr) => {
 //   return {
